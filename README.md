@@ -6,6 +6,15 @@ parallelize and render images fast. It can be used to render
 Schottky groups.  
 3D examples may require high GPU power, so run these examples at your own risk.  
 Similar examples are also available on [my Shadertoy page](https://www.shadertoy.com/user/soma_arc). You can edit and run code easily. Some examples may run faster than running on my WebGL implementation.
+## Publication
+- Kento Nakamura and Kazushi Ahara, A New Algorithm for Rendering Kissing Schottky Groups, Bridges Finland 2016 Short Papers
+  - [Paper](http://archive.bridgesmathart.org/2016/bridges2016-367.html)
+  - [Slide deck](https://speakerdeck.com/soma_arc/a-new-algorithm-for-rendering-kissing-schottky-groups)
+
+## Related project
+- [Schottky Link](https://github.com/soma-arc/SchottkyLink)  
+An interactive visualization system on a family of Kleinian groups based on Schottky groups
+
 ## Examples
 ### Kissing Schottky
 This is basic kissing Schottky group composed by four circles.
